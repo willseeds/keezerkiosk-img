@@ -1,13 +1,14 @@
 #Keezer Kiosk IMG v1.0 (08-08-2020)
 
 **************   KEEZER KIOSK   **************
+
 **************    Image file    **************
 
-// Keezer Kiosk project goal (1.0)
-// - to create a touch-screen intranet accessible
-// - LAMP website that allows for keezer management
-// - to add/revise/delete beers and open/close taps
-// - with the ability to report temp from a sensor
+Keezer Kiosk project goal (1.0)
+- to create a touch-screen intranet accessible
+- LAMP website that allows for keezer management
+- to add/revise/delete beers and open/close taps
+- with the ability to report temp from a sensor
 
 - include insert/update/delete ability on past/upcoming
 - beers for easy brewing/keezer management.
