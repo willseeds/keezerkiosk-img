@@ -13,7 +13,7 @@ Keezer Kiosk project goal (1.0)
 - include insert/update/delete ability on past/upcoming
 - beers for easy brewing/keezer management.
 
-  simple HTML pages (with .php extension)
+- simple HTML pages (with .php extension)
    - use include/require to add functionality
    - leave out the ID and SQL stuff from the user
    - source pages and phpMySQLadmin tables contain SQL understanding
@@ -29,7 +29,8 @@ allow the ease of entering the history of your beers. at the time of
 this release, the apt-get is updated, but it suggested you run this 
 at first connection to the internet (in the instructions). 
 
-// WARNING 
+// WARNING //
+
 This site was not designed for external exposure to the internet. 
 Only for internal/local network. It should for no reason at all be 
 exposed to the external internet. If you want to show friends/family 
