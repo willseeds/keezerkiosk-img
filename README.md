@@ -1,9 +1,8 @@
 #Keezer Kiosk IMG v1.0 (08-08-2020)
 
-**********************************************
 **************   KEEZER KIOSK   **************
+
 **************    Image file    **************
-**********************************************
 
 // Keezer Kiosk project goal (1.0)
 // - to create a touch-screen intranet accessible
